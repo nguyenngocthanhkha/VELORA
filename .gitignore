@@ -4,3 +4,14 @@
 **/.env.*
 !**/.env.example
 *.log
+
+**/.git_backup/
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+!**/.env.example
+/frontend/frontend/
+/frontend/.openai/
+/frontend/artifacts/
+**/*.tsbuildinfo
